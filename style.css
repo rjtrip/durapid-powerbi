@@ -784,6 +784,13 @@ ul p.afcp {
     display: none;
 }
 }
+@media(min-width:500px){
+#trew{margin-left: 170px;
+        margin-top: 60px;
+        
+        
+justify-content:flex-start;}
+}
 
 @media(min-width:270px)and (max-width:350px){
     .ser{
@@ -791,7 +798,12 @@ ul p.afcp {
         flex: auto;
         flex-direction: column;
         display: flex;
-    }    
+    }     #trew{
+        margin-top: 60px;
+        
+       
+        
+justify-content:flex-start;}
 
     i.fas{
         font-size: 24px;
