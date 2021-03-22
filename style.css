@@ -792,7 +792,7 @@ ul p.afcp {
 justify-content:flex-start;}
 }
 
-@media(min-width:270px)and (max-width:350px){
+@media(min-width:270px)and (max-width:390px){
     .ser{
         margin-left:20px;text-align:center; background-color:#f2f2f2; margin-top:15px; width:178px;height:50px; float:left; 
         flex: auto;
